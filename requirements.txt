@@ -1,0 +1,4 @@
+geoip2
+sklearn
+ua_parser
+numpy
